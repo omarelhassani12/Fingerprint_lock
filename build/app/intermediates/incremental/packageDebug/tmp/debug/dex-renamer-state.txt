@@ -1,0 +1,4 @@
+#Mon Jan 15 22:56:13 WEST 2024
+base.0=C\:\\Users\\dell\\AndroidStudioProjects\\Fingerprint_lock\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
